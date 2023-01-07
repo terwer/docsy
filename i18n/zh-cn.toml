@@ -79,3 +79,13 @@ other = "如果你想通过为 {{ .Site.Title }} 贡献更多参与，请在此�
 other = "你可以了解如何为 {{ .Site.Title }} 做出贡献，请参考我们的"
 [community_guideline]
 other = "贡献指南"
+
+# Feedback
+[feedback_title]
+other = "文档反馈"
+[feedback_question]
+other = "这篇文档对你有帮助吗？"
+[feedback_answer_yes]
+other = "有用"
+[feedback_answer_no]
+other = "沒用"
