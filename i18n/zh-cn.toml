@@ -89,3 +89,9 @@ other = "这篇文档对你有帮助吗？"
 other = "有用"
 [feedback_answer_no]
 other = "沒用"
+
+# Taxonomy
+[taxonomy_tags]
+other = "标签"
+[taxonomy_categories]
+other = "分类"

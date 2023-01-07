@@ -89,3 +89,9 @@ other = "Was this page helpful?"
 other = "Yes"
 [feedback_answer_no]
 other = "No"
+
+# Taxonomy
+[taxonomy_tags]
+other = "Tags"
+[taxonomy_categories]
+other = "Categories"
